@@ -1,0 +1,11 @@
+{
+  "name": "playwright",
+  "description": "브라우저 제어",
+  "config": {
+    "args": [
+      "-y",
+      "@executeautomation/playwright-mcp-server"
+    ],
+    "command": "npx"
+  }
+}

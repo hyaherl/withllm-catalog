@@ -1,0 +1,19 @@
+{
+  "name": "withEAI",
+  "description": "",
+  "buildCommand": "",
+  "runCommand": "",
+  "vcsType": "none",
+  "vcsUrl": "",
+  "metadata": {
+    "skillIds": [
+      "1-1"
+    ],
+    "subagentIds": [
+      "code-reviewer"
+    ],
+    "mcpServerIds": [
+      "playwright"
+    ]
+  }
+}
