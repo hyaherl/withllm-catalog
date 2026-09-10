@@ -1,0 +1,11 @@
+{
+  "name": "context7",
+  "description": "context7",
+  "config": {
+    "url": "https://mcp.context7.com/mcp",
+    "type": "http",
+    "headers": {
+      "CONTEXT7_API_KEY": ""
+    }
+  }
+}
