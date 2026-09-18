@@ -7,9 +7,13 @@
   "vcsUrl": "https://192.168.2.6/svn/2020/YJ",
   "metadata": {
     "skillIds": [
-      "skill-ac5c9fc5",
-      "1-1"
+      "skill-ac5c9fc5"
     ],
-    "mcpServerIds": []
+    "mcpServerIds": [
+      "playwright"
+    ],
+    "subagentIds": [
+      "code-reviewer"
+    ]
   }
 }
