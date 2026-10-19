@@ -1,4 +1,5 @@
 {
+  "id": "0fc0f387-7f1b-5aa2-8e8b-1c598c67d647",
   "name": "withEAI",
   "description": "",
   "buildCommand": "",
@@ -7,13 +8,13 @@
   "vcsUrl": "",
   "metadata": {
     "skillIds": [
-      "1-1"
+      "3a38b460-752c-5c1d-b6d1-76d7a817ad4f"
     ],
     "subagentIds": [
-      "code-reviewer"
+      "c185dff4-3df5-5f7a-aba5-e98a003b74b3"
     ],
     "mcpServerIds": [
-      "playwright"
+      "def5ed5d-6e77-5336-84ff-30a6207ae0d6"
     ]
   }
 }

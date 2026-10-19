@@ -1,4 +1,5 @@
 {
+  "id": "79c25b86-f76a-5f36-bb19-cd5cfac81a81",
   "name": "DWBIO MES Admin",
   "description": "",
   "buildCommand": "gradlew bootWar",

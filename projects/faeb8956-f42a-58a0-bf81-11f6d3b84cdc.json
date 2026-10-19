@@ -1,5 +1,6 @@
 {
-  "name": "test",
+  "id": "faeb8956-f42a-58a0-bf81-11f6d3b84cdc",
+  "name": "withLLM",
   "description": "",
   "buildCommand": "",
   "runCommand": "",

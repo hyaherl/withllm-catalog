@@ -1,4 +1,5 @@
 {
+  "id": "1c0bb0d4-2f3d-523f-b6ad-0c9b38f1d37b",
   "name": "YJ",
   "description": "",
   "buildCommand": "",
@@ -7,13 +8,13 @@
   "vcsUrl": "https://192.168.2.6/svn/2020/YJ",
   "metadata": {
     "skillIds": [
-      "skill-ac5c9fc5"
+      "bbbb1731-27b8-5142-9f5b-c3039d463119"
     ],
     "mcpServerIds": [
-      "playwright"
+      "def5ed5d-6e77-5336-84ff-30a6207ae0d6"
     ],
     "subagentIds": [
-      "code-reviewer"
+      "c185dff4-3df5-5f7a-aba5-e98a003b74b3"
     ]
   }
 }
