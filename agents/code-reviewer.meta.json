@@ -1,4 +1,5 @@
 {
+  "id": "code-reviewer",
   "name": "code-reviewer",
   "description": "코드 변경 검토"
 }
